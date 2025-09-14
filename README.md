@@ -14,4 +14,4 @@ Includes data cleaning, processing, and visualization in Excel with pivot tables
 - Images/ → Dashboard screenshots
 
 ## Preview
-![Dashboard Screenshot](Images/dashboard.png)
+![Dashboard](Dashboard%20image.png)
